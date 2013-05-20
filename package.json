@@ -1,0 +1,19 @@
+{
+  "name": "ninja-sun",
+  "version": "0.0.0",
+  "description": "A NinjaBlocks driver for sunrise/sunset type events",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Elliot Shepherd",
+  "license": "MIT",
+  "dependencies": {
+    "suncalc":"1.2.1",
+    "node-schedule":"0.1.8",
+    "underscore":"1.4.4",
+    "moment":"2.0.0",
+    "colors":"0.6.0-1"
+  }
+}
