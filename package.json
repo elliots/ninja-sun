@@ -1,6 +1,6 @@
 {
   "name": "ninja-sun",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A NinjaBlocks driver for sunrise/sunset type events",
   "main": "index.js",
   "scripts": {
