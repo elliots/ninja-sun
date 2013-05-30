@@ -31,10 +31,6 @@ function Device(app) {
   this.G = 'sun';
   this.name = 'Sun';
 
-  setTimeout(function() {
-    self.emit('data', 1); // Removeme!
-  }, 1);
-
   function scheduleEvents() {
       self._app.log.info("☀ Scheduling the day's exciting sun-based events ☀".yellow);
 
